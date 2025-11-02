@@ -164,8 +164,6 @@ export const ChatLayout: React.FC<{
           </motion.div>
         )}
       </AnimatePresence>
-
-      {/* Mobile chats list is a dedicated page at /chats. Drawer removed. */}
     </div>
   );
 };
